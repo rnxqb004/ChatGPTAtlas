@@ -6,6 +6,8 @@
 
 浏览器市场正在成为AI行业的新战场。虽然Google Chrome长期占据主导地位，但AI聊天机器人和智能代理正在从根本上改变人们的在线工作方式。ChatGPT Atlas的推出，意味着OpenAI正式加入这场争夺战，试图用AI重新定义浏览器体验。
 
+<img width="1216" height="706" alt="image" src="https://github.com/user-attachments/assets/152b54ba-ca46-48b1-9ade-3d2d4ac76f21" />
+
 ---
 
 ## 发布计划：先macOS，其他平台陆续跟进
