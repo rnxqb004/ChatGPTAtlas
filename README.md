@@ -73,7 +73,7 @@ AI浏览器在硅谷很火，但在更广泛的世界里，它们的影响力还
 
 OpenAI需要证明，ChatGPT Atlas不仅仅是一个噱头，而是真正能提升用户体验的工具。
 
-![AI浏览器市场竞争示意图](https://example.com/browser-competition.jpg)
+![AI浏览器市场竞争示意图](<img width="2400" height="1308" alt="image" src="https://github.com/user-attachments/assets/ca41bc36-dbf9-4906-997f-516e6a55672e" />)
 
 ## 关键问题：隐私和性能
 
